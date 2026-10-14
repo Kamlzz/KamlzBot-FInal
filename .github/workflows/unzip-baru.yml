@@ -1,4 +1,4 @@
-name: UNZIP BARU
+name: UNZIP AMAN
 
 on:
   workflow_dispatch:
@@ -11,10 +11,10 @@ jobs:
     runs-on: ubuntu-24.04
 
     steps:
-      - name: Ambil isi repository
+      - name: Ambil repository
         uses: actions/checkout@v5
 
-      - name: Ekstrak project.zip
+      - name: Ekstrak dan bersihkan file sensitif
         shell: python
         run: |
           import zipfile
@@ -25,7 +25,7 @@ jobs:
 
           if not zip_file.is_file():
               raise FileNotFoundError(
-                  "Upload project.zip ke folder utama repository terlebih dahulu."
+                  "project.zip tidak ditemukan di folder utama repository."
               )
 
           with zipfile.ZipFile(zip_file, "r") as archive:
@@ -33,16 +33,14 @@ jobs:
                   destination = (root / entry.filename).resolve()
 
                   if not destination.is_relative_to(root):
-                      raise ValueError(
-                          "Lokasi file tidak aman: " + entry.filename
-                      )
+                      raise ValueError("Path ZIP tidak aman.")
 
-                  relative_path = destination.relative_to(root)
-                  first_part = next(iter(relative_path.parts), "")
+                  relative = destination.relative_to(root)
+                  first_part = next(iter(relative.parts), "")
 
                   if first_part in (".git", ".github"):
                       raise ValueError(
-                          "ZIP tidak boleh berisi folder .git atau .github."
+                          "ZIP tidak boleh berisi .git atau .github."
                       )
 
                   if destination == zip_file:
@@ -53,7 +51,47 @@ jobs:
               archive.extractall(root)
 
           zip_file.unlink()
-          print("ZIP berhasil diekstrak.")
+
+          for path in root.rglob("*"):
+              relative = path.relative_to(root)
+
+              if ".git" in relative.parts or ".github" in relative.parts:
+                  continue
+
+              if not path.is_file():
+                  continue
+
+              name = path.name.lower()
+
+              is_env = (
+                  name.startswith(".env")
+                  and name != ".env.example"
+              )
+              is_backup = ".bak" in name or ".backup" in name
+              is_config = name.startswith("config.json")
+              is_zip = path.suffix.lower() == ".zip"
+
+              if is_env or is_backup or is_config or is_zip:
+                  print("Menghapus:", relative)
+                  path.unlink()
+
+          ignore_file = root / ".gitignore"
+          rules = """
+          
+          # File rahasia dan cadangan
+          .env*
+          !.env.example
+          *.bak*
+          *.backup*
+          config.json*
+          *.zip
+          node_modules/
+          """
+
+          with ignore_file.open("a", encoding="utf-8") as file:
+              file.write(rules)
+
+          print("Ekstraksi dan pembersihan selesai.")
 
       - name: Simpan hasil ke repository
         shell: bash
@@ -64,8 +102,8 @@ jobs:
           git add --all
 
           if git diff --cached --quiet; then
-            echo "Tidak ada perubahan untuk disimpan."
+            echo "Tidak ada perubahan."
           else
-            git commit -m "Ekstrak project.zip"
+            git commit -m "Ekstrak ZIP tanpa file konfigurasi dan backup"
             git push
           fi
