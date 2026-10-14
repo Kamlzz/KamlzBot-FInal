@@ -1,0 +1,71 @@
+name: UNZIP BARU
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  unzip:
+    runs-on: ubuntu-24.04
+
+    steps:
+      - name: Ambil isi repository
+        uses: actions/checkout@v5
+
+      - name: Ekstrak project.zip
+        shell: python
+        run: |
+          import zipfile
+          from pathlib import Path
+
+          root = Path.cwd().resolve()
+          zip_file = root / "project.zip"
+
+          if not zip_file.is_file():
+              raise FileNotFoundError(
+                  "Upload project.zip ke folder utama repository terlebih dahulu."
+              )
+
+          with zipfile.ZipFile(zip_file, "r") as archive:
+              for entry in archive.infolist():
+                  destination = (root / entry.filename).resolve()
+
+                  if not destination.is_relative_to(root):
+                      raise ValueError(
+                          "Lokasi file tidak aman: " + entry.filename
+                      )
+
+                  relative_path = destination.relative_to(root)
+                  first_part = next(iter(relative_path.parts), "")
+
+                  if first_part in (".git", ".github"):
+                      raise ValueError(
+                          "ZIP tidak boleh berisi folder .git atau .github."
+                      )
+
+                  if destination == zip_file:
+                      raise ValueError(
+                          "ZIP tidak boleh berisi project.zip di folder utama."
+                      )
+
+              archive.extractall(root)
+
+          zip_file.unlink()
+          print("ZIP berhasil diekstrak.")
+
+      - name: Simpan hasil ke repository
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add --all
+
+          if git diff --cached --quiet; then
+            echo "Tidak ada perubahan untuk disimpan."
+          else
+            git commit -m "Ekstrak project.zip"
+            git push
+          fi
