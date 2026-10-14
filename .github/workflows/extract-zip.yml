@@ -31,7 +31,7 @@ jobs:
                       raise ValueError("Path ZIP tidak aman")
 
                   relative = target.relative_to(root)
-                  if relative.parts and relative.parts<a href="" class="citation-link" target="_blank" style="vertical-align: super; font-size: 0.8em; margin-left: 3px;">[0]</a> in (".git", ".github"):
+                  if next(iter(relative.parts), "") in (".git", ".github"):
                       raise ValueError("ZIP tidak boleh berisi .git atau .github")
 
               archive.extractall(root)
