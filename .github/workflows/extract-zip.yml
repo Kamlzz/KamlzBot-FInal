@@ -1,0 +1,49 @@
+name: Ekstrak ZIP
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Ekstrak ZIP
+        shell: python
+        run: |
+          import zipfile
+          from pathlib import Path
+
+          root = Path.cwd().resolve()
+
+          with zipfile.ZipFile("project.zip") as archive:
+              # Validasi sebelum mengekstrak.
+              for item in archive.infolist():
+                  target = (root / item.filename).resolve()
+
+                  if not target.is_relative_to(root):
+                      raise ValueError("Path ZIP tidak aman")
+
+                  relative = target.relative_to(root)
+                  if relative.parts and relative.parts<a href="" class="citation-link" target="_blank" style="vertical-align: super; font-size: 0.8em; margin-left: 3px;">[0]</a> in (".git", ".github"):
+                      raise ValueError("ZIP tidak boleh berisi .git atau .github")
+
+              archive.extractall(root)
+
+          Path("project.zip").unlink()
+
+      - name: Commit hasil ekstrak
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          if ! git diff --cached --quiet; then
+            git commit -m "Ekstrak project.zip"
+            git push
+          fi
