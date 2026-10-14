@@ -1,0 +1,21 @@
+node_modules/
+auth/
+data/files/*
+!data/files/.gitkeep
+data/tmp/*
+!data/tmp/.gitkeep
+data/deleted/
+data/archive-cache/
+data/archive-chats.json
+*.log
+.env
+
+
+# File rahasia dan cadangan
+.env*
+!.env.example
+*.bak*
+*.backup*
+config.json*
+*.zip
+node_modules/

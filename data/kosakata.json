@@ -1,0 +1,2242 @@
+[
+  {
+    "id": "tanur listrik",
+    "zh": "电炉",
+    "pinyin": "diàn lú"
+  },
+  {
+    "id": "tanur putar",
+    "zh": "回转窑",
+    "pinyin": "huí zhuǎn yáo"
+  },
+  {
+    "id": "bijih nikel",
+    "zh": "镍矿",
+    "pinyin": "niè kuàng"
+  },
+  {
+    "id": "feronikel",
+    "zh": "镍铁",
+    "pinyin": "niè tiě"
+  },
+  {
+    "id": "terak",
+    "zh": "炉渣",
+    "pinyin": "lú zhā"
+  },
+  {
+    "id": "kalsin",
+    "zh": "焙砂",
+    "pinyin": "bèi shā"
+  },
+  {
+    "id": "elektroda",
+    "zh": "电极",
+    "pinyin": "diàn jí"
+  },
+  {
+    "id": "pasta elektroda",
+    "zh": "电极糊",
+    "pinyin": "diàn jí hú"
+  },
+  {
+    "id": "suhu",
+    "zh": "温度",
+    "pinyin": "wēn dù"
+  },
+  {
+    "id": "tekanan",
+    "zh": "压力",
+    "pinyin": "yā lì"
+  },
+  {
+    "id": "operator",
+    "zh": "操作员",
+    "pinyin": "cāo zuò yuán"
+  },
+  {
+    "id": "teknisi",
+    "zh": "技术员",
+    "pinyin": "jì shù yuán"
+  },
+  {
+    "id": "perawatan",
+    "zh": "维护",
+    "pinyin": "wéi hù"
+  },
+  {
+    "id": "perbaikan",
+    "zh": "维修",
+    "pinyin": "wéi xiū"
+  },
+  {
+    "id": "pabrik peleburan",
+    "zh": "冶炼厂",
+    "pinyin": "yě liàn chǎng"
+  },
+  {
+    "id": "area produksi",
+    "zh": "生产区域",
+    "pinyin": "shēng chǎn qū yù"
+  },
+  {
+    "id": "departemen",
+    "zh": "部门",
+    "pinyin": "bù mén"
+  },
+  {
+    "id": "bagian",
+    "zh": "班组",
+    "pinyin": "bān zǔ"
+  },
+  {
+    "id": "supervisor",
+    "zh": "主管",
+    "pinyin": "zhǔ guǎn"
+  },
+  {
+    "id": "manajer",
+    "zh": "经理",
+    "pinyin": "jīng lǐ"
+  },
+  {
+    "id": "ketua tim",
+    "zh": "班长",
+    "pinyin": "bān zhǎng"
+  },
+  {
+    "id": "karyawan",
+    "zh": "员工",
+    "pinyin": "yuán gōng"
+  },
+  {
+    "id": "pekerja Indonesia",
+    "zh": "印尼员工",
+    "pinyin": "yìn ní yuán gōng"
+  },
+  {
+    "id": "pekerja Tiongkok",
+    "zh": "中国员工",
+    "pinyin": "zhōng guó yuán gōng"
+  },
+  {
+    "id": "teknisi listrik",
+    "zh": "电气技术员",
+    "pinyin": "diàn qì jì shù yuán"
+  },
+  {
+    "id": "teknisi mekanik",
+    "zh": "机械技术员",
+    "pinyin": "jī xiè jì shù yuán"
+  },
+  {
+    "id": "operator tanur listrik",
+    "zh": "电炉操作员",
+    "pinyin": "diàn lú cāo zuò yuán"
+  },
+  {
+    "id": "operator tanur putar",
+    "zh": "回转窑操作员",
+    "pinyin": "huí zhuǎn yáo cāo zuò yuán"
+  },
+  {
+    "id": "shift kerja",
+    "zh": "班次",
+    "pinyin": "bān cì"
+  },
+  {
+    "id": "shift pagi",
+    "zh": "白班",
+    "pinyin": "bái bān"
+  },
+  {
+    "id": "shift malam",
+    "zh": "夜班",
+    "pinyin": "yè bān"
+  },
+  {
+    "id": "serah terima shift",
+    "zh": "交接班",
+    "pinyin": "jiāo jiē bān"
+  },
+  {
+    "id": "absen",
+    "zh": "考勤",
+    "pinyin": "kǎo qín"
+  },
+  {
+    "id": "izin",
+    "zh": "请假",
+    "pinyin": "qǐng jià"
+  },
+  {
+    "id": "lembur",
+    "zh": "加班",
+    "pinyin": "jiā bān"
+  },
+  {
+    "id": "cuti",
+    "zh": "休假",
+    "pinyin": "xiū jià"
+  },
+  {
+    "id": "jadwal kerja",
+    "zh": "工作安排",
+    "pinyin": "gōng zuò ān pái"
+  },
+  {
+    "id": "instruksi kerja",
+    "zh": "作业指令",
+    "pinyin": "zuò yè zhǐ lìng"
+  },
+  {
+    "id": "prosedur operasi standar",
+    "zh": "标准操作规程",
+    "pinyin": "biāo zhǔn cāo zuò guī chéng"
+  },
+  {
+    "id": "laporan",
+    "zh": "报告",
+    "pinyin": "bào gào"
+  },
+  {
+    "id": "catatan",
+    "zh": "记录",
+    "pinyin": "jì lù"
+  },
+  {
+    "id": "periksa",
+    "zh": "检查",
+    "pinyin": "jiǎn chá"
+  },
+  {
+    "id": "konfirmasi",
+    "zh": "确认",
+    "pinyin": "què rèn"
+  },
+  {
+    "id": "selesai",
+    "zh": "完成",
+    "pinyin": "wán chéng"
+  },
+  {
+    "id": "belum selesai",
+    "zh": "未完成",
+    "pinyin": "wèi wán chéng"
+  },
+  {
+    "id": "segera",
+    "zh": "马上",
+    "pinyin": "mǎ shàng"
+  },
+  {
+    "id": "hati-hati",
+    "zh": "小心",
+    "pinyin": "xiǎo xīn"
+  },
+  {
+    "id": "berbahaya",
+    "zh": "危险",
+    "pinyin": "wēi xiǎn"
+  },
+  {
+    "id": "dilarang masuk",
+    "zh": "禁止入内",
+    "pinyin": "jìn zhǐ rù nèi"
+  },
+  {
+    "id": "izin kerja",
+    "zh": "作业许可证",
+    "pinyin": "zuò yè xǔ kě zhèng"
+  },
+  {
+    "id": "pengering putar",
+    "zh": "回转干燥窑",
+    "pinyin": "huí zhuǎn gān zào yáo"
+  },
+  {
+    "id": "pengeringan",
+    "zh": "干燥",
+    "pinyin": "gān zào"
+  },
+  {
+    "id": "kadar air",
+    "zh": "水分",
+    "pinyin": "shuǐ fèn"
+  },
+  {
+    "id": "bijih basah",
+    "zh": "湿矿",
+    "pinyin": "shī kuàng"
+  },
+  {
+    "id": "bijih kering",
+    "zh": "干矿",
+    "pinyin": "gān kuàng"
+  },
+  {
+    "id": "batu bara",
+    "zh": "煤炭",
+    "pinyin": "méi tàn"
+  },
+  {
+    "id": "batu bara bubuk",
+    "zh": "煤粉",
+    "pinyin": "méi fěn"
+  },
+  {
+    "id": "penggilingan batu bara",
+    "zh": "磨煤",
+    "pinyin": "mó méi"
+  },
+  {
+    "id": "mesin penggiling batu bara",
+    "zh": "磨煤机",
+    "pinyin": "mó méi jī"
+  },
+  {
+    "id": "pengumpan",
+    "zh": "给料机",
+    "pinyin": "jǐ liào jī"
+  },
+  {
+    "id": "konveyor sabuk",
+    "zh": "皮带输送机",
+    "pinyin": "pí dài shū sòng jī"
+  },
+  {
+    "id": "sabuk konveyor",
+    "zh": "输送带",
+    "pinyin": "shū sòng dài"
+  },
+  {
+    "id": "rol",
+    "zh": "托辊",
+    "pinyin": "tuō gǔn"
+  },
+  {
+    "id": "roller penyangga",
+    "zh": "托轮",
+    "pinyin": "tuō lún"
+  },
+  {
+    "id": "roda gigi",
+    "zh": "齿轮",
+    "pinyin": "chǐ lún"
+  },
+  {
+    "id": "bantalan",
+    "zh": "轴承",
+    "pinyin": "zhóu chéng"
+  },
+  {
+    "id": "motor",
+    "zh": "电机",
+    "pinyin": "diàn jī"
+  },
+  {
+    "id": "motor utama",
+    "zh": "主电机",
+    "pinyin": "zhǔ diàn jī"
+  },
+  {
+    "id": "peredam kecepatan",
+    "zh": "减速机",
+    "pinyin": "jiǎn sù jī"
+  },
+  {
+    "id": "kopling",
+    "zh": "联轴器",
+    "pinyin": "lián zhóu qì"
+  },
+  {
+    "id": "pompa",
+    "zh": "泵",
+    "pinyin": "bèng"
+  },
+  {
+    "id": "pompa air",
+    "zh": "水泵",
+    "pinyin": "shuǐ bèng"
+  },
+  {
+    "id": "kipas",
+    "zh": "风机",
+    "pinyin": "fēng jī"
+  },
+  {
+    "id": "pembakar",
+    "zh": "燃烧器",
+    "pinyin": "rán shāo qì"
+  },
+  {
+    "id": "bahan bakar",
+    "zh": "燃料",
+    "pinyin": "rán liào"
+  },
+  {
+    "id": "nyala api",
+    "zh": "火焰",
+    "pinyin": "huǒ yàn"
+  },
+  {
+    "id": "debu",
+    "zh": "粉尘",
+    "pinyin": "fěn chén"
+  },
+  {
+    "id": "pengumpul debu",
+    "zh": "除尘器",
+    "pinyin": "chú chén qì"
+  },
+  {
+    "id": "pengendap elektrostatik",
+    "zh": "静电除尘器",
+    "pinyin": "jìng diàn chú chén qì"
+  },
+  {
+    "id": "cerobong",
+    "zh": "烟囱",
+    "pinyin": "yān cōng"
+  },
+  {
+    "id": "gas buang",
+    "zh": "废气",
+    "pinyin": "fèi qì"
+  },
+  {
+    "id": "karbon monoksida",
+    "zh": "一氧化碳",
+    "pinyin": "yī yǎng huà tàn"
+  },
+  {
+    "id": "karbon dioksida",
+    "zh": "二氧化碳",
+    "pinyin": "èr yǎng huà tàn"
+  },
+  {
+    "id": "oksigen",
+    "zh": "氧气",
+    "pinyin": "yǎng qì"
+  },
+  {
+    "id": "nitrogen",
+    "zh": "氮气",
+    "pinyin": "dàn qì"
+  },
+  {
+    "id": "udara",
+    "zh": "空气",
+    "pinyin": "kōng qì"
+  },
+  {
+    "id": "aliran udara",
+    "zh": "气流",
+    "pinyin": "qì liú"
+  },
+  {
+    "id": "tekanan negatif",
+    "zh": "负压",
+    "pinyin": "fù yā"
+  },
+  {
+    "id": "tekanan positif",
+    "zh": "正压",
+    "pinyin": "zhèng yā"
+  },
+  {
+    "id": "kebocoran udara",
+    "zh": "漏风",
+    "pinyin": "lòu fēng"
+  },
+  {
+    "id": "penyegelan",
+    "zh": "密封",
+    "pinyin": "mì fēng"
+  },
+  {
+    "id": "suhu gas buang",
+    "zh": "烟气温度",
+    "pinyin": "yān qì wēn dù"
+  },
+  {
+    "id": "kalsinasi",
+    "zh": "煅烧",
+    "pinyin": "duàn shāo"
+  },
+  {
+    "id": "reduksi",
+    "zh": "还原",
+    "pinyin": "huán yuán"
+  },
+  {
+    "id": "peleburan",
+    "zh": "熔炼",
+    "pinyin": "róng liàn"
+  },
+  {
+    "id": "pencampuran",
+    "zh": "混合",
+    "pinyin": "hùn hé"
+  },
+  {
+    "id": "pengisian bahan",
+    "zh": "加料",
+    "pinyin": "jiā liào"
+  },
+  {
+    "id": "pengeluaran terak",
+    "zh": "排渣",
+    "pinyin": "pái zhā"
+  },
+  {
+    "id": "penyadapan logam",
+    "zh": "出铁",
+    "pinyin": "chū tiě"
+  },
+  {
+    "id": "lubang sadap",
+    "zh": "出铁口",
+    "pinyin": "chū tiě kǒu"
+  },
+  {
+    "id": "parit sadap",
+    "zh": "出铁沟",
+    "pinyin": "chū tiě gōu"
+  },
+  {
+    "id": "saluran terak",
+    "zh": "排渣沟",
+    "pinyin": "pái zhā gōu"
+  },
+  {
+    "id": "saluran cair",
+    "zh": "溜槽",
+    "pinyin": "liū cáo"
+  },
+  {
+    "id": "sendok tuang",
+    "zh": "浇包",
+    "pinyin": "jiāo bāo"
+  },
+  {
+    "id": "cetakan",
+    "zh": "模具",
+    "pinyin": "mú jù"
+  },
+  {
+    "id": "ingot feronikel",
+    "zh": "镍铁锭",
+    "pinyin": "niè tiě dìng"
+  },
+  {
+    "id": "logam cair",
+    "zh": "熔融金属",
+    "pinyin": "róng róng jīn shǔ"
+  },
+  {
+    "id": "terak cair",
+    "zh": "熔渣",
+    "pinyin": "róng zhā"
+  },
+  {
+    "id": "permukaan terak",
+    "zh": "渣面",
+    "pinyin": "zhā miàn"
+  },
+  {
+    "id": "permukaan logam",
+    "zh": "金属液面",
+    "pinyin": "jīn shǔ yè miàn"
+  },
+  {
+    "id": "pemisahan terak dan logam",
+    "zh": "渣铁分离",
+    "pinyin": "zhā tiě fēn lí"
+  },
+  {
+    "id": "komposisi terak",
+    "zh": "炉渣成分",
+    "pinyin": "lú zhā chéng fèn"
+  },
+  {
+    "id": "kebasaan terak",
+    "zh": "炉渣碱度",
+    "pinyin": "lú zhā jiǎn dù"
+  },
+  {
+    "id": "silika",
+    "zh": "二氧化硅",
+    "pinyin": "èr yǎng huà guī"
+  },
+  {
+    "id": "magnesia",
+    "zh": "氧化镁",
+    "pinyin": "yǎng huà měi"
+  },
+  {
+    "id": "kapur",
+    "zh": "石灰",
+    "pinyin": "shí huī"
+  },
+  {
+    "id": "batu kapur",
+    "zh": "石灰石",
+    "pinyin": "shí huī shí"
+  },
+  {
+    "id": "nikel oksida",
+    "zh": "氧化镍",
+    "pinyin": "yǎng huà niè"
+  },
+  {
+    "id": "besi oksida",
+    "zh": "氧化铁",
+    "pinyin": "yǎng huà tiě"
+  },
+  {
+    "id": "nikel",
+    "zh": "镍",
+    "pinyin": "niè"
+  },
+  {
+    "id": "besi",
+    "zh": "铁",
+    "pinyin": "tiě"
+  },
+  {
+    "id": "karbon",
+    "zh": "碳",
+    "pinyin": "tàn"
+  },
+  {
+    "id": "kadar nikel",
+    "zh": "镍含量",
+    "pinyin": "niè hán liàng"
+  },
+  {
+    "id": "kadar besi",
+    "zh": "铁含量",
+    "pinyin": "tiě hán liàng"
+  },
+  {
+    "id": "kadar karbon",
+    "zh": "碳含量",
+    "pinyin": "tàn hán liàng"
+  },
+  {
+    "id": "perolehan nikel",
+    "zh": "镍回收率",
+    "pinyin": "niè huí shōu lǜ"
+  },
+  {
+    "id": "perolehan logam",
+    "zh": "金属回收率",
+    "pinyin": "jīn shǔ huí shōu lǜ"
+  },
+  {
+    "id": "neraca material",
+    "zh": "物料平衡",
+    "pinyin": "wù liào píng héng"
+  },
+  {
+    "id": "konsumsi listrik",
+    "zh": "电耗",
+    "pinyin": "diàn hào"
+  },
+  {
+    "id": "daya listrik",
+    "zh": "电功率",
+    "pinyin": "diàn gōng lǜ"
+  },
+  {
+    "id": "arus listrik",
+    "zh": "电流",
+    "pinyin": "diàn liú"
+  },
+  {
+    "id": "tegangan listrik",
+    "zh": "电压",
+    "pinyin": "diàn yā"
+  },
+  {
+    "id": "frekuensi",
+    "zh": "频率",
+    "pinyin": "pín lǜ"
+  },
+  {
+    "id": "transformator",
+    "zh": "变压器",
+    "pinyin": "biàn yā qì"
+  },
+  {
+    "id": "elektroda tiga fase",
+    "zh": "三相电极",
+    "pinyin": "sān xiàng diàn jí"
+  },
+  {
+    "id": "arus elektroda",
+    "zh": "电极电流",
+    "pinyin": "diàn jí diàn liú"
+  },
+  {
+    "id": "posisi elektroda",
+    "zh": "电极位置",
+    "pinyin": "diàn jí wèi zhì"
+  },
+  {
+    "id": "penurunan elektroda",
+    "zh": "电极下放",
+    "pinyin": "diàn jí xià fàng"
+  },
+  {
+    "id": "menaikkan elektroda",
+    "zh": "提升电极",
+    "pinyin": "tí shēng diàn jí"
+  },
+  {
+    "id": "pasta elektroda mentah",
+    "zh": "生电极糊",
+    "pinyin": "shēng diàn jí hú"
+  },
+  {
+    "id": "selubung elektroda",
+    "zh": "电极壳",
+    "pinyin": "diàn jí ké"
+  },
+  {
+    "id": "pembakaran elektroda",
+    "zh": "电极烧结",
+    "pinyin": "diàn jí shāo jié"
+  },
+  {
+    "id": "konsumsi elektroda",
+    "zh": "电极消耗",
+    "pinyin": "diàn jí xiāo hào"
+  },
+  {
+    "id": "hubung singkat",
+    "zh": "短路",
+    "pinyin": "duǎn lù"
+  },
+  {
+    "id": "beban listrik",
+    "zh": "电负荷",
+    "pinyin": "diàn fù hè"
+  },
+  {
+    "id": "sistem pendingin",
+    "zh": "冷却系统",
+    "pinyin": "lěng què xì tǒng"
+  },
+  {
+    "id": "air pendingin",
+    "zh": "冷却水",
+    "pinyin": "lěng què shuǐ"
+  },
+  {
+    "id": "menara pendingin",
+    "zh": "冷却塔",
+    "pinyin": "lěng què tǎ"
+  },
+  {
+    "id": "suhu air masuk",
+    "zh": "进水温度",
+    "pinyin": "jìn shuǐ wēn dù"
+  },
+  {
+    "id": "suhu air keluar",
+    "zh": "出水温度",
+    "pinyin": "chū shuǐ wēn dù"
+  },
+  {
+    "id": "debit air",
+    "zh": "水流量",
+    "pinyin": "shuǐ liú liàng"
+  },
+  {
+    "id": "tekanan air",
+    "zh": "水压",
+    "pinyin": "shuǐ yā"
+  },
+  {
+    "id": "pipa",
+    "zh": "管道",
+    "pinyin": "guǎn dào"
+  },
+  {
+    "id": "katup",
+    "zh": "阀门",
+    "pinyin": "fá mén"
+  },
+  {
+    "id": "katup geser",
+    "zh": "插板阀",
+    "pinyin": "chā bǎn fá"
+  },
+  {
+    "id": "katup kupu-kupu",
+    "zh": "蝶阀",
+    "pinyin": "dié fá"
+  },
+  {
+    "id": "katup bola",
+    "zh": "球阀",
+    "pinyin": "qiú fá"
+  },
+  {
+    "id": "flensa",
+    "zh": "法兰",
+    "pinyin": "fǎ lán"
+  },
+  {
+    "id": "selang",
+    "zh": "软管",
+    "pinyin": "ruǎn guǎn"
+  },
+  {
+    "id": "kebocoran air",
+    "zh": "漏水",
+    "pinyin": "lòu shuǐ"
+  },
+  {
+    "id": "aliran tersumbat",
+    "zh": "堵塞",
+    "pinyin": "dǔ sè"
+  },
+  {
+    "id": "pembersihan",
+    "zh": "清理",
+    "pinyin": "qīng lǐ"
+  },
+  {
+    "id": "perbaikan darurat",
+    "zh": "抢修",
+    "pinyin": "qiǎng xiū"
+  },
+  {
+    "id": "pengambilan sampel",
+    "zh": "取样",
+    "pinyin": "qǔ yàng"
+  },
+  {
+    "id": "sampel",
+    "zh": "样品",
+    "pinyin": "yàng pǐn"
+  },
+  {
+    "id": "titik sampling",
+    "zh": "取样点",
+    "pinyin": "qǔ yàng diǎn"
+  },
+  {
+    "id": "jarak antar titik",
+    "zh": "点间距",
+    "pinyin": "diǎn jiān jù"
+  },
+  {
+    "id": "berat sampel",
+    "zh": "样品重量",
+    "pinyin": "yàng pǐn zhòng liàng"
+  },
+  {
+    "id": "laboratorium",
+    "zh": "化验室",
+    "pinyin": "huà yàn shì"
+  },
+  {
+    "id": "analisis kimia",
+    "zh": "化学分析",
+    "pinyin": "huà xué fēn xī"
+  },
+  {
+    "id": "hasil analisis",
+    "zh": "分析结果",
+    "pinyin": "fēn xī jié guǒ"
+  },
+  {
+    "id": "kadar air sampel",
+    "zh": "样品水分",
+    "pinyin": "yàng pǐn shuǐ fèn"
+  },
+  {
+    "id": "penimbangan",
+    "zh": "称重",
+    "pinyin": "chēng zhòng"
+  },
+  {
+    "id": "timbangan",
+    "zh": "秤",
+    "pinyin": "chèng"
+  },
+  {
+    "id": "ember",
+    "zh": "桶",
+    "pinyin": "tǒng"
+  },
+  {
+    "id": "sekop",
+    "zh": "铲子",
+    "pinyin": "chǎn zi"
+  },
+  {
+    "id": "palu",
+    "zh": "锤子",
+    "pinyin": "chuí zi"
+  },
+  {
+    "id": "pahat",
+    "zh": "凿子",
+    "pinyin": "záo zi"
+  },
+  {
+    "id": "alat pemukul",
+    "zh": "敲击工具",
+    "pinyin": "qiāo jī gōng jù"
+  },
+  {
+    "id": "alat pelindung diri",
+    "zh": "个人防护用品",
+    "pinyin": "gè rén fáng hù yòng pǐn"
+  },
+  {
+    "id": "helm keselamatan",
+    "zh": "安全帽",
+    "pinyin": "ān quán mào"
+  },
+  {
+    "id": "kacamata pelindung",
+    "zh": "护目镜",
+    "pinyin": "hù mù jìng"
+  },
+  {
+    "id": "sarung tangan",
+    "zh": "手套",
+    "pinyin": "shǒu tào"
+  },
+  {
+    "id": "sepatu keselamatan",
+    "zh": "安全鞋",
+    "pinyin": "ān quán xié"
+  },
+  {
+    "id": "masker debu",
+    "zh": "防尘口罩",
+    "pinyin": "fáng chén kǒu zhào"
+  },
+  {
+    "id": "pelindung wajah",
+    "zh": "面罩",
+    "pinyin": "miàn zhào"
+  },
+  {
+    "id": "sabuk pengaman",
+    "zh": "安全带",
+    "pinyin": "ān quán dài"
+  },
+  {
+    "id": "pagar pengaman",
+    "zh": "安全护栏",
+    "pinyin": "ān quán hù lán"
+  },
+  {
+    "id": "rambu keselamatan",
+    "zh": "安全标志",
+    "pinyin": "ān quán biāo zhì"
+  },
+  {
+    "id": "bahaya listrik",
+    "zh": "触电危险",
+    "pinyin": "chù diàn wēi xiǎn"
+  },
+  {
+    "id": "bahaya suhu tinggi",
+    "zh": "高温危险",
+    "pinyin": "gāo wēn wēi xiǎn"
+  },
+  {
+    "id": "permukaan panas",
+    "zh": "高温表面",
+    "pinyin": "gāo wēn biǎo miàn"
+  },
+  {
+    "id": "kebakaran",
+    "zh": "火灾",
+    "pinyin": "huǒ zāi"
+  },
+  {
+    "id": "alat pemadam api",
+    "zh": "灭火器",
+    "pinyin": "miè huǒ qì"
+  },
+  {
+    "id": "pertolongan pertama",
+    "zh": "急救",
+    "pinyin": "jí jiù"
+  },
+  {
+    "id": "kecelakaan kerja",
+    "zh": "工伤事故",
+    "pinyin": "gōng shāng shì gù"
+  },
+  {
+    "id": "hampir celaka",
+    "zh": "未遂事故",
+    "pinyin": "wèi suì shì gù"
+  },
+  {
+    "id": "penilaian risiko",
+    "zh": "风险评估",
+    "pinyin": "fēng xiǎn píng gū"
+  },
+  {
+    "id": "penguncian energi",
+    "zh": "能量上锁",
+    "pinyin": "néng liàng shàng suǒ"
+  },
+  {
+    "id": "tagout",
+    "zh": "挂牌",
+    "pinyin": "guà pái"
+  },
+  {
+    "id": "ruang terbatas",
+    "zh": "受限空间",
+    "pinyin": "shòu xiàn kōng jiān"
+  },
+  {
+    "id": "kerja di ketinggian",
+    "zh": "高处作业",
+    "pinyin": "gāo chù zuò yè"
+  },
+  {
+    "id": "izin kerja panas",
+    "zh": "动火许可证",
+    "pinyin": "dòng huǒ xǔ kě zhèng"
+  },
+  {
+    "id": "evakuasi",
+    "zh": "疏散",
+    "pinyin": "shū sàn"
+  },
+  {
+    "id": "titik kumpul",
+    "zh": "集合点",
+    "pinyin": "jí hé diǎn"
+  },
+  {
+    "id": "alat berat",
+    "zh": "重型设备",
+    "pinyin": "zhòng xíng shè bèi"
+  },
+  {
+    "id": "crane",
+    "zh": "起重机",
+    "pinyin": "qǐ zhòng jī"
+  },
+  {
+    "id": "overhead crane",
+    "zh": "桥式起重机",
+    "pinyin": "qiáo shì qǐ zhòng jī"
+  },
+  {
+    "id": "hoist",
+    "zh": "葫芦吊",
+    "pinyin": "hú lú diào"
+  },
+  {
+    "id": "forklift",
+    "zh": "叉车",
+    "pinyin": "chā chē"
+  },
+  {
+    "id": "ekskavator",
+    "zh": "挖掘机",
+    "pinyin": "wā jué jī"
+  },
+  {
+    "id": "wheel loader",
+    "zh": "装载机",
+    "pinyin": "zhuāng zǎi jī"
+  },
+  {
+    "id": "dump truck",
+    "zh": "自卸车",
+    "pinyin": "zì xiè chē"
+  },
+  {
+    "id": "truk pengangkut",
+    "zh": "运输车",
+    "pinyin": "yùn shū chē"
+  },
+  {
+    "id": "operator crane",
+    "zh": "起重机操作员",
+    "pinyin": "qǐ zhòng jī cāo zuò yuán"
+  },
+  {
+    "id": "sinyal tangan",
+    "zh": "手势信号",
+    "pinyin": "shǒu shì xìn hào"
+  },
+  {
+    "id": "pengait",
+    "zh": "吊钩",
+    "pinyin": "diào gōu"
+  },
+  {
+    "id": "tali sling",
+    "zh": "吊索",
+    "pinyin": "diào suǒ"
+  },
+  {
+    "id": "rantai",
+    "zh": "链条",
+    "pinyin": "liàn tiáo"
+  },
+  {
+    "id": "beban angkat",
+    "zh": "吊装负荷",
+    "pinyin": "diào zhuāng fù hè"
+  },
+  {
+    "id": "kapasitas angkat",
+    "zh": "起重量",
+    "pinyin": "qǐ zhòng liàng"
+  },
+  {
+    "id": "pemeriksaan harian",
+    "zh": "日常检查",
+    "pinyin": "rì cháng jiǎn chá"
+  },
+  {
+    "id": "pelumasan",
+    "zh": "润滑",
+    "pinyin": "rùn huá"
+  },
+  {
+    "id": "gemuk pelumas",
+    "zh": "润滑脂",
+    "pinyin": "rùn huá zhī"
+  },
+  {
+    "id": "oli",
+    "zh": "润滑油",
+    "pinyin": "rùn huá yóu"
+  },
+  {
+    "id": "ban dalam",
+    "zh": "内胎",
+    "pinyin": "nèi tāi"
+  },
+  {
+    "id": "ban luar",
+    "zh": "外胎",
+    "pinyin": "wài tāi"
+  },
+  {
+    "id": "tekanan ban",
+    "zh": "轮胎压力",
+    "pinyin": "lún tāi yā lì"
+  },
+  {
+    "id": "getaran",
+    "zh": "振动",
+    "pinyin": "zhèn dòng"
+  },
+  {
+    "id": "kebisingan",
+    "zh": "噪声",
+    "pinyin": "zào shēng"
+  },
+  {
+    "id": "keausan",
+    "zh": "磨损",
+    "pinyin": "mó sǔn"
+  },
+  {
+    "id": "retak",
+    "zh": "裂纹",
+    "pinyin": "liè wén"
+  },
+  {
+    "id": "korosi",
+    "zh": "腐蚀",
+    "pinyin": "fǔ shí"
+  },
+  {
+    "id": "suku cadang",
+    "zh": "备件",
+    "pinyin": "bèi jiàn"
+  },
+  {
+    "id": "stok suku cadang",
+    "zh": "备件库存",
+    "pinyin": "bèi jiàn kù cún"
+  },
+  {
+    "id": "kerusakan",
+    "zh": "故障",
+    "pinyin": "gù zhàng"
+  },
+  {
+    "id": "alarm",
+    "zh": "报警",
+    "pinyin": "bào jǐng"
+  },
+  {
+    "id": "lampu indikator",
+    "zh": "指示灯",
+    "pinyin": "zhǐ shì dēng"
+  },
+  {
+    "id": "tombol darurat",
+    "zh": "急停按钮",
+    "pinyin": "jí tíng àn niǔ"
+  },
+  {
+    "id": "matikan mesin",
+    "zh": "停机",
+    "pinyin": "tíng jī"
+  },
+  {
+    "id": "hidupkan mesin",
+    "zh": "开机",
+    "pinyin": "kāi jī"
+  },
+  {
+    "id": "mulai operasi",
+    "zh": "开始运行",
+    "pinyin": "kāi shǐ yùn xíng"
+  },
+  {
+    "id": "hentikan operasi",
+    "zh": "停止运行",
+    "pinyin": "tíng zhǐ yùn xíng"
+  },
+  {
+    "id": "tingkat",
+    "zh": "级别",
+    "pinyin": "jí bié"
+  },
+  {
+    "id": "turun satu tingkat",
+    "zh": "降一级",
+    "pinyin": "jiàng yī jí"
+  },
+  {
+    "id": "naik satu tingkat",
+    "zh": "升一级",
+    "pinyin": "shēng yī jí"
+  },
+  {
+    "id": "nol meter",
+    "zh": "0米",
+    "pinyin": "líng mǐ"
+  },
+  {
+    "id": "lapangan",
+    "zh": "现场",
+    "pinyin": "xiàn chǎng"
+  },
+  {
+    "id": "ruang kontrol",
+    "zh": "控制室",
+    "pinyin": "kòng zhì shì"
+  },
+  {
+    "id": "panel kontrol",
+    "zh": "控制柜",
+    "pinyin": "kòng zhì guì"
+  },
+  {
+    "id": "ruang listrik",
+    "zh": "电气室",
+    "pinyin": "diàn qì shì"
+  },
+  {
+    "id": "gudang",
+    "zh": "仓库",
+    "pinyin": "cāng kù"
+  },
+  {
+    "id": "ruang istirahat",
+    "zh": "休息室",
+    "pinyin": "xiū xi shì"
+  },
+  {
+    "id": "asrama",
+    "zh": "宿舍",
+    "pinyin": "sù shè"
+  },
+  {
+    "id": "kantin",
+    "zh": "食堂",
+    "pinyin": "shí táng"
+  },
+  {
+    "id": "toilet",
+    "zh": "卫生间",
+    "pinyin": "wèi shēng jiān"
+  },
+  {
+    "id": "air minum",
+    "zh": "饮用水",
+    "pinyin": "yǐn yòng shuǐ"
+  },
+  {
+    "id": "kebersihan",
+    "zh": "卫生",
+    "pinyin": "wèi shēng"
+  },
+  {
+    "id": "rapikan area",
+    "zh": "整理现场",
+    "pinyin": "zhěng lǐ xiàn chǎng"
+  },
+  {
+    "id": "5S",
+    "zh": "5S管理",
+    "pinyin": "wǔ S guǎn lǐ"
+  },
+  {
+    "id": "pembersihan rutin",
+    "zh": "定期清扫",
+    "pinyin": "dìng qī qīng sǎo"
+  },
+  {
+    "id": "limbah",
+    "zh": "废弃物",
+    "pinyin": "fèi qì wù"
+  },
+  {
+    "id": "tempat sampah",
+    "zh": "垃圾桶",
+    "pinyin": "lā jī tǒng"
+  },
+  {
+    "id": "daur ulang",
+    "zh": "回收利用",
+    "pinyin": "huí shōu lì yòng"
+  },
+  {
+    "id": "kualitas",
+    "zh": "质量",
+    "pinyin": "zhì liàng"
+  },
+  {
+    "id": "target produksi",
+    "zh": "生产目标",
+    "pinyin": "shēng chǎn mù biāo"
+  },
+  {
+    "id": "produksi harian",
+    "zh": "日产量",
+    "pinyin": "rì chǎn liàng"
+  },
+  {
+    "id": "efisiensi",
+    "zh": "效率",
+    "pinyin": "xiào lǜ"
+  },
+  {
+    "id": "peningkatan",
+    "zh": "改善",
+    "pinyin": "gǎi shàn"
+  },
+  {
+    "id": "masalah",
+    "zh": "问题",
+    "pinyin": "wèn tí"
+  },
+  {
+    "id": "penyebab",
+    "zh": "原因",
+    "pinyin": "yuán yīn"
+  },
+  {
+    "id": "solusi",
+    "zh": "解决方案",
+    "pinyin": "jiě jué fāng àn"
+  },
+  {
+    "id": "tindakan perbaikan",
+    "zh": "整改措施",
+    "pinyin": "zhěng gǎi cuò shī"
+  },
+  {
+    "id": "ulang kembali",
+    "zh": "重新",
+    "pinyin": "chóng xīn"
+  },
+  {
+    "id": "tunggu sebentar",
+    "zh": "稍等",
+    "pinyin": "shāo děng"
+  },
+  {
+    "id": "sudah diperiksa",
+    "zh": "已经检查",
+    "pinyin": "yǐ jīng jiǎn chá"
+  },
+  {
+    "id": "belum diperiksa",
+    "zh": "还没检查",
+    "pinyin": "hái méi jiǎn chá"
+  },
+  {
+    "id": "tidak normal",
+    "zh": "异常",
+    "pinyin": "yì cháng"
+  },
+  {
+    "id": "normal",
+    "zh": "正常",
+    "pinyin": "zhèng cháng"
+  },
+  {
+    "id": "rusak",
+    "zh": "坏了",
+    "pinyin": "huài le"
+  },
+  {
+    "id": "bisa digunakan",
+    "zh": "可以使用",
+    "pinyin": "kě yǐ shǐ yòng"
+  },
+  {
+    "id": "tidak boleh digunakan",
+    "zh": "禁止使用",
+    "pinyin": "jìn zhǐ shǐ yòng"
+  },
+  {
+    "id": "tolong bantu",
+    "zh": "请帮忙",
+    "pinyin": "qǐng bāng máng"
+  },
+  {
+    "id": "mengerti",
+    "zh": "明白",
+    "pinyin": "míng bai"
+  },
+  {
+    "id": "tidak mengerti",
+    "zh": "不明白",
+    "pinyin": "bù míng bai"
+  },
+  {
+    "id": "ulangi sekali lagi",
+    "zh": "再说一遍",
+    "pinyin": "zài shuō yí biàn"
+  },
+  {
+    "id": "apa maksudnya",
+    "zh": "什么意思",
+    "pinyin": "shén me yì si"
+  },
+  {
+    "id": "berapa banyak",
+    "zh": "多少",
+    "pinyin": "duō shao"
+  },
+  {
+    "id": "di mana",
+    "zh": "在哪里",
+    "pinyin": "zài nǎ lǐ"
+  },
+  {
+    "id": "kapan",
+    "zh": "什么时候",
+    "pinyin": "shén me shí hou"
+  },
+  {
+    "id": "sekarang",
+    "zh": "现在",
+    "pinyin": "xiàn zài"
+  },
+  {
+    "id": "nanti",
+    "zh": "等一下",
+    "pinyin": "děng yí xià"
+  },
+  {
+    "id": "hari ini",
+    "zh": "今天",
+    "pinyin": "jīn tiān"
+  },
+  {
+    "id": "besok",
+    "zh": "明天",
+    "pinyin": "míng tiān"
+  },
+  {
+    "id": "kemarin",
+    "zh": "昨天",
+    "pinyin": "zuó tiān"
+  },
+  {
+    "id": "cepat",
+    "zh": "快点",
+    "pinyin": "kuài diǎn"
+  },
+  {
+    "id": "pelan-pelan",
+    "zh": "慢一点",
+    "pinyin": "màn yì diǎn"
+  },
+  {
+    "id": "naikkan",
+    "zh": "升高",
+    "pinyin": "shēng gāo"
+  },
+  {
+    "id": "turunkan",
+    "zh": "降低",
+    "pinyin": "jiàng dī"
+  },
+  {
+    "id": "buka katup",
+    "zh": "打开阀门",
+    "pinyin": "dǎ kāi fá mén"
+  },
+  {
+    "id": "tutup katup",
+    "zh": "关闭阀门",
+    "pinyin": "guān bì fá mén"
+  },
+  {
+    "id": "kurangi bahan",
+    "zh": "减少加料",
+    "pinyin": "jiǎn shǎo jiā liào"
+  },
+  {
+    "id": "ambil sampel lagi",
+    "zh": "重新取样",
+    "pinyin": "chóng xīn qǔ yàng"
+  },
+  {
+    "id": "kirim ke laboratorium",
+    "zh": "送到化验室",
+    "pinyin": "sòng dào huà yàn shì"
+  },
+  {
+    "id": "hasil belum keluar",
+    "zh": "结果还没出来",
+    "pinyin": "jié guǒ hái méi chū lái"
+  },
+  {
+    "id": "hasil sudah keluar",
+    "zh": "结果出来了",
+    "pinyin": "jié guǒ chū lái le"
+  },
+  {
+    "id": "kadar terlalu tinggi",
+    "zh": "含量过高",
+    "pinyin": "hán liàng guò gāo"
+  },
+  {
+    "id": "kadar terlalu rendah",
+    "zh": "含量过低",
+    "pinyin": "hán liàng guò dī"
+  },
+  {
+    "id": "suhu terlalu tinggi",
+    "zh": "温度过高",
+    "pinyin": "wēn dù guò gāo"
+  },
+  {
+    "id": "suhu terlalu rendah",
+    "zh": "温度过低",
+    "pinyin": "wēn dù guò dī"
+  },
+  {
+    "id": "arus terlalu tinggi",
+    "zh": "电流过高",
+    "pinyin": "diàn liú guò gāo"
+  },
+  {
+    "id": "tekanan terlalu tinggi",
+    "zh": "压力过高",
+    "pinyin": "yā lì guò gāo"
+  },
+  {
+    "id": "kekurangan air",
+    "zh": "缺水",
+    "pinyin": "quē shuǐ"
+  },
+  {
+    "id": "kekurangan bahan",
+    "zh": "缺料",
+    "pinyin": "quē liào"
+  },
+  {
+    "id": "material tersumbat",
+    "zh": "物料堵塞",
+    "pinyin": "wù liào dǔ sè"
+  },
+  {
+    "id": "material menempel",
+    "zh": "物料粘结",
+    "pinyin": "wù liào zhān jié"
+  },
+  {
+    "id": "permukaan tidak rata",
+    "zh": "表面不平",
+    "pinyin": "biǎo miàn bù píng"
+  },
+  {
+    "id": "terjadi kebocoran",
+    "zh": "发生泄漏",
+    "pinyin": "fā shēng xiè lòu"
+  },
+  {
+    "id": "matikan listrik",
+    "zh": "断电",
+    "pinyin": "duàn diàn"
+  },
+  {
+    "id": "sambungkan listrik",
+    "zh": "送电",
+    "pinyin": "sòng diàn"
+  },
+  {
+    "id": "uji coba",
+    "zh": "试运行",
+    "pinyin": "shì yùn xíng"
+  },
+  {
+    "id": "pemeliharaan berkala",
+    "zh": "定期维护",
+    "pinyin": "dìng qī wéi hù"
+  },
+  {
+    "id": "periksa kembali",
+    "zh": "再次检查",
+    "pinyin": "zài cì jiǎn chá"
+  },
+  {
+    "id": "tanda peringatan",
+    "zh": "警示标志",
+    "pinyin": "jǐng shì biāo zhì"
+  },
+  {
+    "id": "bahan baku",
+    "zh": "原料",
+    "pinyin": "yuán liào"
+  },
+  {
+    "id": "produk akhir",
+    "zh": "最终产品",
+    "pinyin": "zuì zhōng chǎn pǐn"
+  },
+  {
+    "id": "produk antara",
+    "zh": "中间产品",
+    "pinyin": "zhōng jiān chǎn pǐn"
+  },
+  {
+    "id": "sistem hidrolik",
+    "zh": "液压系统",
+    "pinyin": "yè yā xì tǒng"
+  },
+  {
+    "id": "silinder hidrolik",
+    "zh": "液压缸",
+    "pinyin": "yè yā gāng"
+  },
+  {
+    "id": "kompresor udara",
+    "zh": "空压机",
+    "pinyin": "kōng yā jī"
+  },
+  {
+    "id": "tangki air",
+    "zh": "水箱",
+    "pinyin": "shuǐ xiāng"
+  },
+  {
+    "id": "tangki bahan bakar",
+    "zh": "油箱",
+    "pinyin": "yóu xiāng"
+  },
+  {
+    "id": "filter",
+    "zh": "过滤器",
+    "pinyin": "guò lǜ qì"
+  },
+  {
+    "id": "saringan",
+    "zh": "筛网",
+    "pinyin": "shāi wǎng"
+  },
+  {
+    "id": "ukuran partikel",
+    "zh": "颗粒尺寸",
+    "pinyin": "kē lì chǐ cùn"
+  },
+  {
+    "id": "ayakan",
+    "zh": "筛分机",
+    "pinyin": "shāi fēn jī"
+  },
+  {
+    "id": "kadar nikel dalam bijih",
+    "zh": "矿石镍品位",
+    "pinyin": "kuàng shí niè pǐn wèi"
+  },
+  {
+    "id": "bijih limonit",
+    "zh": "褐铁矿",
+    "pinyin": "hè tiě kuàng"
+  },
+  {
+    "id": "bijih saprolit",
+    "zh": "腐泥土矿",
+    "pinyin": "fǔ ní tǔ kuàng"
+  },
+  {
+    "id": "bahan reduktor",
+    "zh": "还原剂",
+    "pinyin": "huán yuán jì"
+  },
+  {
+    "id": "reaksi kimia",
+    "zh": "化学反应",
+    "pinyin": "huà xué fǎn yìng"
+  },
+  {
+    "id": "oksidasi",
+    "zh": "氧化",
+    "pinyin": "yǎng huà"
+  },
+  {
+    "id": "titik leleh",
+    "zh": "熔点",
+    "pinyin": "róng diǎn"
+  },
+  {
+    "id": "viskositas",
+    "zh": "黏度",
+    "pinyin": "nián dù"
+  },
+  {
+    "id": "densitas",
+    "zh": "密度",
+    "pinyin": "mì dù"
+  },
+  {
+    "id": "suhu leleh",
+    "zh": "熔化温度",
+    "pinyin": "róng huà wēn dù"
+  },
+  {
+    "id": "pembentukan terak",
+    "zh": "造渣",
+    "pinyin": "zào zhā"
+  },
+  {
+    "id": "pembentukan logam",
+    "zh": "金属生成",
+    "pinyin": "jīn shǔ shēng chéng"
+  },
+  {
+    "id": "sisa karbon",
+    "zh": "残碳",
+    "pinyin": "cán tàn"
+  },
+  {
+    "id": "kandungan sulfur",
+    "zh": "硫含量",
+    "pinyin": "liú hán liàng"
+  },
+  {
+    "id": "sulfur dioksida",
+    "zh": "二氧化硫",
+    "pinyin": "èr yǎng huà liú"
+  },
+  {
+    "id": "gas beracun",
+    "zh": "有毒气体",
+    "pinyin": "yǒu dú qì tǐ"
+  },
+  {
+    "id": "ventilasi",
+    "zh": "通风",
+    "pinyin": "tōng fēng"
+  },
+  {
+    "id": "saluran ventilasi",
+    "zh": "通风管道",
+    "pinyin": "tōng fēng guǎn dào"
+  },
+  {
+    "id": "debu beterbangan",
+    "zh": "扬尘",
+    "pinyin": "yáng chén"
+  },
+  {
+    "id": "kadar kelembapan",
+    "zh": "含水率",
+    "pinyin": "hán shuǐ lǜ"
+  },
+  {
+    "id": "kapasitas produksi",
+    "zh": "生产能力",
+    "pinyin": "shēng chǎn néng lì"
+  },
+  {
+    "id": "kecepatan putar",
+    "zh": "转速",
+    "pinyin": "zhuǎn sù"
+  },
+  {
+    "id": "kemiringan tanur",
+    "zh": "窑体倾斜度",
+    "pinyin": "yáo tǐ qīng xié dù"
+  },
+  {
+    "id": "waktu tinggal",
+    "zh": "停留时间",
+    "pinyin": "tíng liú shí jiān"
+  },
+  {
+    "id": "zona pemanasan",
+    "zh": "预热区",
+    "pinyin": "yù rè qū"
+  },
+  {
+    "id": "zona reduksi",
+    "zh": "还原区",
+    "pinyin": "huán yuán qū"
+  },
+  {
+    "id": "zona pembakaran",
+    "zh": "燃烧区",
+    "pinyin": "rán shāo qū"
+  },
+  {
+    "id": "refraktori",
+    "zh": "耐火材料",
+    "pinyin": "nài huǒ cái liào"
+  },
+  {
+    "id": "batu bata tahan api",
+    "zh": "耐火砖",
+    "pinyin": "nài huǒ zhuān"
+  },
+  {
+    "id": "lapisan tahan api",
+    "zh": "耐火衬里",
+    "pinyin": "nài huǒ chèn lǐ"
+  },
+  {
+    "id": "kerusakan refraktori",
+    "zh": "耐火材料损坏",
+    "pinyin": "nài huǒ cái liào sǔn huài"
+  },
+  {
+    "id": "pendinginan dinding",
+    "zh": "炉壁冷却",
+    "pinyin": "lú bì lěng què"
+  },
+  {
+    "id": "lubang inspeksi",
+    "zh": "检查孔",
+    "pinyin": "jiǎn chá kǒng"
+  },
+  {
+    "id": "lubang pengamatan",
+    "zh": "观察孔",
+    "pinyin": "guān chá kǒng"
+  },
+  {
+    "id": "pintu akses",
+    "zh": "检修门",
+    "pinyin": "jiǎn xiū mén"
+  },
+  {
+    "id": "jembatan kerja",
+    "zh": "操作平台",
+    "pinyin": "cāo zuò píng tái"
+  },
+  {
+    "id": "tangga",
+    "zh": "梯子",
+    "pinyin": "tī zi"
+  },
+  {
+    "id": "lantai kerja",
+    "zh": "作业平台",
+    "pinyin": "zuò yè píng tái"
+  },
+  {
+    "id": "pembatas area",
+    "zh": "区域隔离",
+    "pinyin": "qū yù gé lí"
+  },
+  {
+    "id": "barikade",
+    "zh": "隔离栏",
+    "pinyin": "gé lí lán"
+  },
+  {
+    "id": "alat komunikasi",
+    "zh": "通讯设备",
+    "pinyin": "tōng xùn shè bèi"
+  },
+  {
+    "id": "radio komunikasi",
+    "zh": "对讲机",
+    "pinyin": "duì jiǎng jī"
+  },
+  {
+    "id": "izin masuk",
+    "zh": "进入许可",
+    "pinyin": "jìn rù xǔ kě"
+  },
+  {
+    "id": "pemeriksaan sebelum kerja",
+    "zh": "作业前检查",
+    "pinyin": "zuò yè qián jiǎn chá"
+  },
+  {
+    "id": "analisis keselamatan kerja",
+    "zh": "作业安全分析",
+    "pinyin": "zuò yè ān quán fēn xī"
+  },
+  {
+    "id": "rapat keselamatan",
+    "zh": "安全会议",
+    "pinyin": "ān quán huì yì"
+  },
+  {
+    "id": "pelatihan keselamatan",
+    "zh": "安全培训",
+    "pinyin": "ān quán péi xùn"
+  },
+  {
+    "id": "laporkan kepada atasan",
+    "zh": "向主管报告",
+    "pinyin": "xiàng zhǔ guǎn bào gào"
+  },
+  {
+    "id": "tindakan tidak aman",
+    "zh": "不安全行为",
+    "pinyin": "bù ān quán xíng wéi"
+  },
+  {
+    "id": "kondisi tidak aman",
+    "zh": "不安全状态",
+    "pinyin": "bù ān quán zhuàng tài"
+  },
+  {
+    "id": "housekeeping",
+    "zh": "现场整理整顿",
+    "pinyin": "xiàn chǎng zhěng lǐ zhěng dùn"
+  },
+  {
+    "id": "alat tidak lengkap",
+    "zh": "工具不齐全",
+    "pinyin": "gōng jù bù qí quán"
+  },
+  {
+    "id": "peralatan kerja",
+    "zh": "作业工具",
+    "pinyin": "zuò yè gōng jù"
+  },
+  {
+    "id": "mesin tidak berfungsi",
+    "zh": "设备无法运行",
+    "pinyin": "shè bèi wú fǎ yùn xíng"
+  },
+  {
+    "id": "pemeriksaan peralatan",
+    "zh": "设备检查",
+    "pinyin": "shè bèi jiǎn chá"
+  },
+  {
+    "id": "jadwal perawatan",
+    "zh": "维护计划",
+    "pinyin": "wéi hù jì huà"
+  },
+  {
+    "id": "riwayat kerusakan",
+    "zh": "故障记录",
+    "pinyin": "gù zhàng jì lù"
+  },
+  {
+    "id": "waktu henti",
+    "zh": "停机时间",
+    "pinyin": "tíng jī shí jiān"
+  },
+  {
+    "id": "waktu operasi",
+    "zh": "运行时间",
+    "pinyin": "yùn xíng shí jiān"
+  },
+  {
+    "id": "kinerja peralatan",
+    "zh": "设备性能",
+    "pinyin": "shè bèi xìng néng"
+  },
+  {
+    "id": "target harian",
+    "zh": "每日目标",
+    "pinyin": "měi rì mù biāo"
+  },
+  {
+    "id": "pencapaian target",
+    "zh": "目标达成",
+    "pinyin": "mù biāo dá chéng"
+  },
+  {
+    "id": "penyimpangan",
+    "zh": "偏差",
+    "pinyin": "piān chā"
+  },
+  {
+    "id": "analisis akar masalah",
+    "zh": "根本原因分析",
+    "pinyin": "gēn běn yuán yīn fēn xī"
+  },
+  {
+    "id": "perbaikan berkelanjutan",
+    "zh": "持续改进",
+    "pinyin": "chí xù gǎi jìn"
+  },
+  {
+    "id": "hemat energi",
+    "zh": "节能",
+    "pinyin": "jié néng"
+  },
+  {
+    "id": "konsumsi batu bara",
+    "zh": "煤耗",
+    "pinyin": "méi hào"
+  },
+  {
+    "id": "konsumsi air",
+    "zh": "水耗",
+    "pinyin": "shuǐ hào"
+  },
+  {
+    "id": "penggunaan listrik",
+    "zh": "用电量",
+    "pinyin": "yòng diàn liàng"
+  },
+  {
+    "id": "biaya produksi",
+    "zh": "生产成本",
+    "pinyin": "shēng chǎn chéng běn"
+  },
+  {
+    "id": "stok bahan",
+    "zh": "物料库存",
+    "pinyin": "wù liào kù cún"
+  },
+  {
+    "id": "penerimaan material",
+    "zh": "物料接收",
+    "pinyin": "wù liào jiē shōu"
+  },
+  {
+    "id": "pengiriman material",
+    "zh": "物料发送",
+    "pinyin": "wù liào fā sòng"
+  },
+  {
+    "id": "bongkar muat",
+    "zh": "装卸",
+    "pinyin": "zhuāng xiè"
+  },
+  {
+    "id": "area penumpukan",
+    "zh": "堆场",
+    "pinyin": "duī chǎng"
+  },
+  {
+    "id": "stockpile",
+    "zh": "料场",
+    "pinyin": "liào chǎng"
+  },
+  {
+    "id": "alat ukur",
+    "zh": "测量仪器",
+    "pinyin": "cè liáng yí qì"
+  },
+  {
+    "id": "termometer",
+    "zh": "温度计",
+    "pinyin": "wēn dù jì"
+  },
+  {
+    "id": "pengukur tekanan",
+    "zh": "压力表",
+    "pinyin": "yā lì biǎo"
+  },
+  {
+    "id": "pengukur aliran",
+    "zh": "流量计",
+    "pinyin": "liú liàng jì"
+  },
+  {
+    "id": "sensor",
+    "zh": "传感器",
+    "pinyin": "chuán gǎn qì"
+  },
+  {
+    "id": "kalibrasi",
+    "zh": "校准",
+    "pinyin": "jiào zhǔn"
+  },
+  {
+    "id": "nilai aktual",
+    "zh": "实际值",
+    "pinyin": "shí jì zhí"
+  },
+  {
+    "id": "nilai standar",
+    "zh": "标准值",
+    "pinyin": "biāo zhǔn zhí"
+  },
+  {
+    "id": "batas maksimum",
+    "zh": "最大限值",
+    "pinyin": "zuì dà xiàn zhí"
+  },
+  {
+    "id": "batas minimum",
+    "zh": "最小限值",
+    "pinyin": "zuì xiǎo xiàn zhí"
+  },
+  {
+    "id": "sesuai standar",
+    "zh": "符合标准",
+    "pinyin": "fú hé biāo zhǔn"
+  },
+  {
+    "id": "tidak sesuai standar",
+    "zh": "不符合标准",
+    "pinyin": "bù fú hé biāo zhǔn"
+  },
+  {
+    "id": "koreksi data",
+    "zh": "数据修正",
+    "pinyin": "shù jù xiū zhèng"
+  },
+  {
+    "id": "data produksi",
+    "zh": "生产数据",
+    "pinyin": "shēng chǎn shù jù"
+  },
+  {
+    "id": "grafik tren",
+    "zh": "趋势图",
+    "pinyin": "qū shì tú"
+  },
+  {
+    "id": "perbandingan",
+    "zh": "对比",
+    "pinyin": "duì bǐ"
+  },
+  {
+    "id": "rata-rata",
+    "zh": "平均值",
+    "pinyin": "píng jūn zhí"
+  },
+  {
+    "id": "maksimum",
+    "zh": "最大值",
+    "pinyin": "zuì dà zhí"
+  },
+  {
+    "id": "minimum",
+    "zh": "最小值",
+    "pinyin": "zuì xiǎo zhí"
+  },
+  {
+    "id": "persentase",
+    "zh": "百分比",
+    "pinyin": "bǎi fēn bǐ"
+  },
+  {
+    "id": "jumlah total",
+    "zh": "总量",
+    "pinyin": "zǒng liàng"
+  },
+  {
+    "id": "satuan",
+    "zh": "单位",
+    "pinyin": "dān wèi"
+  },
+  {
+    "id": "ton",
+    "zh": "吨",
+    "pinyin": "dūn"
+  },
+  {
+    "id": "kilogram",
+    "zh": "公斤",
+    "pinyin": "gōng jīn"
+  },
+  {
+    "id": "meter",
+    "zh": "米",
+    "pinyin": "mǐ"
+  },
+  {
+    "id": "milimeter",
+    "zh": "毫米",
+    "pinyin": "háo mǐ"
+  },
+  {
+    "id": "derajat Celsius",
+    "zh": "摄氏度",
+    "pinyin": "shè shì dù"
+  },
+  {
+    "id": "megawatt",
+    "zh": "兆瓦",
+    "pinyin": "zhào wǎ"
+  },
+  {
+    "id": "kilowatt",
+    "zh": "千瓦",
+    "pinyin": "qiān wǎ"
+  },
+  {
+    "id": "ampere",
+    "zh": "安培",
+    "pinyin": "ān péi"
+  },
+  {
+    "id": "volt",
+    "zh": "伏特",
+    "pinyin": "fú tè"
+  },
+  {
+    "id": "kilowatt-jam",
+    "zh": "千瓦时",
+    "pinyin": "qiān wǎ shí"
+  },
+  {
+    "id": "per shift",
+    "zh": "每班",
+    "pinyin": "měi bān"
+  },
+  {
+    "id": "per jam",
+    "zh": "每小时",
+    "pinyin": "měi xiǎo shí"
+  },
+  {
+    "id": "per hari",
+    "zh": "每天",
+    "pinyin": "měi tiān"
+  },
+  {
+    "id": "per bulan",
+    "zh": "每月",
+    "pinyin": "měi yuè"
+  }
+]

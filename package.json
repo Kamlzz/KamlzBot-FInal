@@ -1,0 +1,31 @@
+{
+  "name": "kamlzbot",
+  "version": "3.1.0",
+  "private": true,
+  "description": "KamlzBot v3.1.0: Baileys v7, YouTube fallback extractor, TikTok/Instagram downloads, FFmpeg editing and Gemini/OpenAI auto AI mode",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "check": "node --check index.js && node --check lib/ai.js && node --check lib/file-store.js && node --check lib/log-filter.js && node --check lib/message-archive.js && node --check lib/baileys-features.js && node --check lib/media-tools.js && node --check lib/translator.js && node --check lib/upfile-fix.js && node --check lib/file-manager.js && node --check lib/news.js",
+    "test": "node --test test/*.test.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "7.0.0-rc14",
+    "dotenv": "^16.6.1",
+    "mime-types": "^2.1.35",
+    "pdfkit": "^0.20.2",
+    "pino": "^9.6.0",
+    "qrcode-terminal": "^0.12.0",
+    "youtubei.js": "^18.1.0"
+  },
+  "optionalDependencies": {
+    "link-preview-js": "^3.0.1",
+    "sharp": "^0.34.2"
+  }
+}
